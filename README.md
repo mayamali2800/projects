@@ -1,5 +1,9 @@
 # Project-
 # Analyse Promotion and Provide tangible Insight to Sales Director of the AtliQ Mart
+
+Explore the live Power BI dashboard for interactive visualizations:
+
+View Power BI Dashboard
 ## Problem Statement 🎯:
 🛒 AtliQ Mart, a retail giant with over 50 supermarkets in southern India, ran massive promotions during Diwali 2023 and Sankranti 2024 🎉.
 Now, the Sales Director seeks insights to make informed decisions for future promotions. Let's analyze which promotions succeeded and which ones fell short! 💡
