@@ -3,7 +3,7 @@
 
 Explore the live Power BI dashboard for interactive visualizations:
 
-View Power BI Dashboard
+[View Power BI Dashboard](#projects)
 ## Problem Statement 🎯:
 🛒 AtliQ Mart, a retail giant with over 50 supermarkets in southern India, ran massive promotions during Diwali 2023 and Sankranti 2024 🎉.
 Now, the Sales Director seeks insights to make informed decisions for future promotions. Let's analyze which promotions succeeded and which ones fell short! 💡
@@ -101,3 +101,10 @@ The analysis revealed several key insights:
 # Conclusion
 Overall, the analysis provides valuable insights into the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024.
 By leveraging data analytics, AtliQ Mart can enhance its marketing strategies, attract more customers, and drive higher sales during festive seasons.
+
+# snapshot of the dashbaord
+![home page](https://github.com/mayamali2800/projects/assets/167747762/d5a976fa-a3c3-40d8-8e40-cfbf92ccd331)
+
+
+![report page](https://github.com/mayamali2800/projects/assets/167747762/22a9e0f0-a769-4036-b946-e8cd7fe25f15)
+
